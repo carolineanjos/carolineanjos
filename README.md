@@ -5,12 +5,11 @@
     
 <p/>
 
-- Studying System Analysis and Development at Estacio
 - Always thirst for learning, knowledge and experience ✨
 
-</br></br>
+</br>
 
-### technologies:
+### Technologies:
 
 <div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
