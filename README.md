@@ -22,7 +22,4 @@
 </div> 
 
 </br>
-  
-<a href="https://www.linkedin.com/in/caroline-anjos/"><img src="https://img.shields.io/badge/-Caroline%20Anjos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-   <a href="mailto:carolineanjoss02@gmail.com"><img src="https://img.shields.io/badge/-carolineanjoss02@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
- 
+
